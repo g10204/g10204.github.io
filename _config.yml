@@ -10,7 +10,7 @@ locale                   : "en_US"
 words_per_minute         : 200
 
 repository               : "mmistakes/made-mistakes-jekyll"
-url                      : "https:g10204.github.io"
+url                      : "https://g10204.github.io"
 
 social:
   name                   : "Michael Rose"
